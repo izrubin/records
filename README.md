@@ -1,6 +1,6 @@
 # records
 packaged for querying GBIF for taxon occurrence records within a range of years
-## Information below copied from https://github.com/programming-for-bio/records/blob/master/README.md
+### Information below copied from https://github.com/programming-for-bio/records/blob/master/README.md
 
 An example project repository for PDSB. The `records` library provides tools 
 for querying the GBIF database using its public REST API, and to efficiently 
