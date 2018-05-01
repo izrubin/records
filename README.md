@@ -1,5 +1,5 @@
 # records
-packaged for querying GBIF for taxon occurrence records within a range of years
+package for querying GBIF for taxon occurrence records within a range of years
 version 0.2
 
 ### Information below copied from https://github.com/programming-for-bio/records/blob/master/README.md
