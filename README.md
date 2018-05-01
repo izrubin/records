@@ -1,20 +1,13 @@
 # records
 packaged for querying GBIF for taxon occurrence records within a range of years
+version 0.2
+
 ### Information below copied from https://github.com/programming-for-bio/records/blob/master/README.md
 
-An example project repository for PDSB. The `records` library provides tools 
-for querying the GBIF database using its public REST API, and to efficiently 
-collect large numbers of records while following limitations on queries. 
-Results are returned as Pandas dataframes. 
-
-**For code-review assignment 8 for the PDSB class**  
-See the jupyter notebook in `notebooks/records-class-objects.ipynb` for a review of 
-the code for assignment 8. A completed version of the assignment can be found
-in the `assignment` branch of this repository. This branch (master) has been
-modified to include further code, as described in the notebook. To see code
-in the `assignment` branch find the tab above that says Branch:master and 
-click on it to select the assignment branch.
-
+The `records` library provides tools for querying the GBIF database using 
+its public REST API, and to efficiently collect large numbers of records 
+while following limitations on queries. Results are returned as Pandas 
+dataframes.
 
 ### Installation
 ```bash
